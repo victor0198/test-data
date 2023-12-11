@@ -1,2 +1,4 @@
 me,me@email.com,mypassword,mypassword
 kingofcheese3,theking@mail.com,king4freedom,king4freedom
+meandyou4ever,memail.com,mypassword,mypassword
+kingofcheese3,theking@mail.com,king,king
