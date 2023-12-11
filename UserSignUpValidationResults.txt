@@ -1,0 +1,5 @@
+
+[ConstraintViolationImpl{interpolatedMessage='should be at least 8 characters long', propertyPath=username, rootBeanClass=class student.examples.uservice.api.client.dto.UserSignupRequest, messageTemplate='should be at least 8 characters long'}]
+[]
+[ConstraintViolationImpl{interpolatedMessage='should be valid', propertyPath=email, rootBeanClass=class student.examples.uservice.api.client.dto.UserSignupRequest, messageTemplate='should be valid'}]
+[ConstraintViolationImpl{interpolatedMessage='should consist of only letters and digits, and have a length between 8 and 20 characters', propertyPath=password, rootBeanClass=class student.examples.uservice.api.client.dto.UserSignupRequest, messageTemplate='should consist of only letters and digits, and have a length between 8 and 20 characters'}]
