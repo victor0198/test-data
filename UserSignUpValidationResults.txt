@@ -1,3 +1,0 @@
-
-[ConstraintViolationImpl{interpolatedMessage='should be at least 8 characters long', propertyPath=username, rootBeanClass=class student.examples.uservice.api.client.dto.UserSignupRequest, messageTemplate='should be at least 8 characters long'}]
-[]
